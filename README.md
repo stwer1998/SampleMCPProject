@@ -12,3 +12,6 @@ get weather for London
 get weather for London and Washington
 
 data is obtained from openweathermap and cached to save queries and time. Added logging to the console for simplicity.
+
+<video src="https://github.com/stwer1998/SampleMCPProject/blob/main/example.mp4" controls width="600"></video>
+

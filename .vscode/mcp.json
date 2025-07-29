@@ -1,0 +1,14 @@
+{
+    "servers": {
+        "fancy-mcp": {
+            "type": "stdio",
+            "command": "dotnet",
+            "args": [
+                "run",
+                "--project",
+                "WeatherMcpServer.csproj"
+            ],
+            "cwd": "WeatherMcpServer"
+        }
+    }
+}

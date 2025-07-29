@@ -8,6 +8,7 @@ now mcp is available to you through the Copilot chat (to check, you can click at
 
 # Commands:
 get weather for London
+
 get weather for London and Washington
 
 data is obtained from openweathermap and cached to save queries and time. Added logging to the console for simplicity.
